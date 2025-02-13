@@ -19,6 +19,6 @@ Building cross-platform apps with Flutter | Dart enthusiast | Mobile-first devel
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cz-gurung/)
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=kshitij-grg&theme=dark)
 
 ---
