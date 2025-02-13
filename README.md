@@ -1,53 +1,24 @@
-# 🦋 Flutter Developer Portfolio
+# Flutter Developer
 
 [![Flutter Badge](https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge&logo=flutter)](https://flutter.dev/)
-[![Dart Badge](https://img.shields.io/badge/Language-Dart-purple?style=for-the-badge&logo=dart)](https://dart.dev/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Building+Amazing+Mobile+Apps;With+Flutter+and+Love;Always+Learning,+Always+Coding)](https://git.io/typing-svg)
+## About
+Building cross-platform apps with Flutter | Dart enthusiast | Mobile-first developer
 
-## 🛠️ Core Skills
-📱 Cross-Platform Development
-🎨 UI/UX Design
+## Skills
+🦋 Flutter Development
+💻 Dart Programming
 🔄 State Management
-📱 Responsive Layouts
-🔧 Performance Optimization
+🎨 UI Design
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kshitij-grg&show_icons=true&theme=midnightpurple)
+## Projects
+[Project 1](link)
+[Project 2](link)
 
-## 🚀 Featured Flutter Projects
-### E-commerce App
-🛍️ Full-stack e-commerce solution
-📱 Built with Flutter + Firebase
-📈 1000+ downloads on Play Store
+## Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cz-gurung/)
 
-### Social Media Clone
-📱 Instagram-like social platform
-🔄 Using Provider for state management
-📈 Growing community of users
-
-## 📚 Tech Stack
-[![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?style=flat-square&logo=flutter)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Language-Dart-purple?style=flat-square&logo=dart)](https://dart.dev/)
-[![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?style=flat-square&logo=firebase)](https://firebase.google.com/)
-
-## 🎯 Current Focus
-✅ Mastering Flutter 3.x
-✅ Learning Advanced Animations
-✅ Building Complex State Management Solutions
-
-## 🏆 Achievements
-🏆 Google Developer Student Clubs Lead
-🌟 Featured Project on Flutter Showcase
-👥 Active Contributor to Flutter Packages
-
-## 💬 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](link)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](link)
-
-## 📈 Streak Stats
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username)](https://git.io/streak-stats)
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark)
 
 ---
-
-Last Updated: [Current Date]
