@@ -7,6 +7,14 @@ I'm **Kshitij Gurung**, a Software Engineer from Nepal 🇳🇵. I **love** buil
 - 🛠️ Love **Building** Stuffs
 - 🥽 Currently diving into the fascinating world of [**Spring Boot**](https://spring.io/projects/spring-boot).
 
+### Tech Stack 🔨
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+</p>
+
 ### Hobbies 🎨
 - 🤖 Exploring the latest tech trends.
 - 🚴‍♂️ Hiking, trekking, and staying active in the great outdoors.
