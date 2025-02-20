@@ -26,6 +26,6 @@ I'm **Kshitij Gurung**, a Software Engineer from Nepal 🇳🇵. I **love** buil
 📫 **Let's connect and create something amazing**:
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:cheetizgurung@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub.)
-[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cz-gurung/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cz-gurung/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-grg&layout=compact&hide=html&langs_count=6" alt="kshitij-grg" /></p>
