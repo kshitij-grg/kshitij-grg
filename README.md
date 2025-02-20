@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px" height="25px"> :computer: `Software Engineer`
+## Hi there!
 
 
 I'm **Kshitij Gurung**, a Software Engineer from Nepal 🇳🇵. I **love** building cool things and geeking out over the latest tech trends.
