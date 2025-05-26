@@ -1,11 +1,7 @@
 ## Hi there!
 
 
-I'm **Kshitij Gurung**, a Software Engineer from Nepal 🇳🇵. I **love** building cool things and geeking out over the latest tech trends.
-
-### What I Do 🚀
-- 🛠️ Love **Building** Stuffs
-- 🥽 Currently diving into the fascinating world of [**Spring Boot**](https://spring.io/projects/spring-boot).
+I'm **Kshitij Gurung**, a Software Engineer studying here in the US. I **love** building cool things and geeking out over the latest tech trends.
 
 ### Tech Stack 🔨
 <p>
@@ -19,7 +15,7 @@ I'm **Kshitij Gurung**, a Software Engineer from Nepal 🇳🇵. I **love** buil
 - 🤖 Exploring the latest tech trends.
 - 🚴‍♂️ Hiking, trekking, and staying active in the great outdoors.
 - 📺 Watching Movies, Series and Animes.
-- 📚 ReadingMangas.
+- 📚 Reading Mangas.
 - 🎮 Gaming.
 - 🎶 Music
 
